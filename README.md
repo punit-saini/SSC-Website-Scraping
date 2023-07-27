@@ -1,6 +1,5 @@
 # SSC Website Web Scraping Project
 
-![SSC Website Web Scraping]
 
 Welcome to the SSC Website Web Scraping project! This Node.js application allows you to monitor the notice board of the SSC (Staff Selection Commission) website for a specific word and sends an email notification via Formspree when the word is found in the top-most child of the homepage notice board.
 
